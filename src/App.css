@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  
+}
+
+.map-card {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  
+}
+
+.card {
+  border: 2px solid black;
+}
+
+.rating {
+  border-bottom: 2px solid black;
+}
+
+.description {
+  border-top: 2px solid black;
+  text-align: center;
+}
+
+.Add {
+  width: 80px; 
+  height: 50px;
+  
+}
+
+
+/* .App {
+  display: flex;
+  justify-content: space-evenly; 
+} */
